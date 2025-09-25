@@ -8,6 +8,8 @@
 
 ## App Preview & Video
 
+### Click To Watch ⤵
+
 [![Watch the video](https://github.com/user-attachments/assets/84bc9733-9dcc-4744-bdaf-d74be5ea0135)](https://www.linkedin.com/posts/merteldemir_computervision-stm32-c-activity-7354592528374841344-ABWB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADy5ky4BhWUlz00otxSfcFcmPPbiG5dNpDw)
 
 <img width="1710" height="909" alt="image" src="https://github.com/user-attachments/assets/52c399b3-44ef-460a-944e-05c2e5e837ef" />
@@ -143,5 +145,6 @@ Ensure the correct serial port is configured in `config.py` if you test it with 
 │   ├── STM32-RGB.ioc
 │   ├── STM32F407VGTX_FLASH._
 ```
+
 
 
